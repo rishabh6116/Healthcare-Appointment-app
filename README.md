@@ -252,5 +252,7 @@ the booking/visit-completion flow **never breaks** because of an LLM issue (see 
 See [`docs/SYSTEM_DESIGN.md`](./docs/SYSTEM_DESIGN.md) for the required write-up on double-booking
 prevention, doctor leave conflict handling, the slot hold mechanism, and notification failure
 handling.
-#   H e a l t h c a r e - A p p o i n t m e n t - a p p  
- 
+
+---
+
+## Healthcare-Appointment-app
